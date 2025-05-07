@@ -18,12 +18,14 @@ This is a frontend challenge to build a simple, centered QR code card using HTML
 ### Screenshots
 
 ![QR Code Component Screenshot](./images/qr_code_desktop.jpeg)
+*Desktop view of the QR Code component*
 
 ![QR Code Component Screenshot](./images/qr_code_mobile.png)
+*Mobile view of the QR Code component*
 
 ### Links
 
-- Solution URL: [GitHub Repo](qr-code-component-main)
+- Solution URL: [GitHub Repo](https://github.com/Mawuawoe/Frontend_projects/tree/main/qr-code-component-main)
 - Live Site URL: [Live Demo](https://yourusername.github.io/qr-code-component)
 
 ## My Process
