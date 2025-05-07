@@ -15,14 +15,15 @@ This is my solution to the [QR Code Component Challenge on Frontend Mentor](http
 ## Overview
 This is a frontend challenge to build a simple, centered QR code card using HTML and CSS. The goal was to replicate a design as closely as possible, paying attention to layout, typography, and responsiveness. It helped me practice using rem units, Flexbox for centering, and Google Fonts.
 
-### Screenshot
+### Screenshots
 
 ![QR Code Component Screenshot](./images/qr_code_desktop.jpeg)
+
 ![QR Code Component Screenshot](./images/qr_code_mobile.png)
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/Mawuawoe/Frontend_projects/tree/1c064459acf316b59d4624c250c9618a9afe06cb/qr-code-component-main)
+- Solution URL: [GitHub Repo](https://github.com/Mawuawoe/Frontend_projects/qr-code-component-main)
 - Live Site URL: [Live Demo](https://yourusername.github.io/qr-code-component)
 
 ## My Process
