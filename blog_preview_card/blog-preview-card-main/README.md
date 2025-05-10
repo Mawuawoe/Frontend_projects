@@ -11,10 +11,8 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
@@ -30,6 +28,7 @@ Users should be able to:
 
 ![Screenshot of Blog Preview Card](./design/desktop-design.jpg)
 *Desktop view*
+
 ![Screenshot of Blog Preview Card](./design/mobile-design.jpg)
 *Mobile view*
 
