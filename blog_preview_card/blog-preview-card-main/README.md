@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/Mawuawoe/Frontend_projects/tree/main/blog_preview_card/blog-preview-card-main)
-- Live Site URL: [Live Demo](https://frontend-projects-lilac.vercel.app/)
+- Live Site URL: [Live Demo](https://frontend-projects-blogcard.vercel.app/)
 
 ## My process
 
