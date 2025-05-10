@@ -1,0 +1,123 @@
+/* Base (mobile-first) styles */
+/* Simple Reset */
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+html {
+    font-size: 16px;
+}
+
+body {
+    height: 100vh;
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Figtree', sans-serif;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    width: 20.5rem;
+    padding: 1.5rem;
+    border: solid;
+    border-width: 0.0625rem;
+    border-radius: 1.25rem;
+    border-color: hsl(0, 0%, 7%);
+    box-shadow: 0.5rem 0.5rem hsl(0, 0%, 7%);
+}
+
+.blog_image {
+    overflow: hidden;
+    border-radius: 0.625rem;
+}
+
+.blog_image img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+.content {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+button {
+    background-color: hsl(47, 88%, 63%);
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+    border-radius: 0.25rem;
+    border: 0;
+    font-size: 0.75rem;
+    font-weight: 800;
+    text-align: center;
+    color: hsl(0, 0%, 7%);
+}
+
+.published_at {
+    margin-top: 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: hsl(0, 0%, 7%);
+}
+
+h1 {
+    width: 100%;
+    font-size: 1.25rem;
+    margin-top: 0.75rem;
+    font-weight: 800;
+    color: hsl(0, 0%, 7%);
+    transition: color 0.3s ease;
+}
+
+h1:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+
+.msg {
+    margin-top: 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: hsl(0, 0%, 42%);
+    line-height: 1.5;
+}
+
+.author {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+}
+
+.author img {
+    display: block;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.author p {
+    font-size: 0.75rem;
+    font-weight: 800;
+    color: hsl(0, 0%, 7%);
+}
+
+/* Desktop styles */
+@media (min-width: 1024px) {
+  .card {
+    width: 24rem;
+  }
+  
+}
