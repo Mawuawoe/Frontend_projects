@@ -30,12 +30,13 @@ Users should be able to:
 *Desktop view*
 
 ![Screenshot of Blog Preview Card](./design/mobile-design.jpg)
+
 *Mobile view*
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/Mawuawoe/Frontend_projects/tree/main/blog_preview_card/blog-preview-card-main)
+- Live Site URL: [Live Demo](https://frontend-projects-lilac.vercel.app/)
 
 ## My process
 
