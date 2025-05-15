@@ -1,0 +1,101 @@
+/* Base (mobile-first) styles */
+/* Simple Reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    height: 100vh;
+    background-color: hsl(0, 0%, 8%);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 90%;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 1.25rem;
+    padding: 1.5rem;
+}
+
+.img-wrapper {
+    width: 6.25rem;
+    height: 6.25rem;    
+    border-radius: 50%;  /* Makes it a circle */
+    overflow: hidden;    /* Ensures image doesn’t spill out */
+    margin: auto;
+}
+
+.img-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.profile-card {
+    text-align: center;
+}
+
+.name {
+    margin-top: 1.5rem;
+    font-size: 2rem;
+}
+
+.location {
+    margin-top: 0.25rem;
+    color: hsl(75, 94%, 57%);
+}
+
+.about {
+    margin-top: 1.6rem;
+    margin-bottom: 1.5rem;
+}
+
+#handles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.link {
+    white-space: nowrap;
+    width: 90%;
+    background-color: hsl(0, 0%, 20%);
+    padding: 1rem;
+    text-align: center;
+    border-radius: 0.5rem;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.3s;
+}
+
+.link:hover {
+    cursor: pointer;
+}
+
+.link:active {
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 8%);
+}
+
+@media (min-width: 768px) {
+  .card {
+    width: 24rem; /* or any other desktop-friendly styling */
+    padding: 2rem;
+    border-radius: 1rem;
+  }
+}
