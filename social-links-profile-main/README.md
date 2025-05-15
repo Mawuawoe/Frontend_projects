@@ -13,7 +13,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
