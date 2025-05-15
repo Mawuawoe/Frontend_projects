@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/Mawuawoe/Frontend_projects/tree/main/blog_preview_card/blog-preview-card-main)
+- Solution URL: [GitHub Repo](https://github.com/Mawuawoe/Frontend_projects/tree/main/social-links-profile-main)
 - Live Site URL: [Live Demo](https://frontend-projects-blogcard.vercel.app/)
 
 ## My process
@@ -58,21 +58,21 @@ This project helped reinforce my understanding of:
 
 ```css
 .link {
-  background-color: hsl(0, 0%, 20%);
-  padding: 1rem 0;
-  width: 100%;
-  text-align: center;
-  white-space: nowrap;
-  border-radius: 0.5rem;
-  transition: background-color 0.3s ease;
-}
-
-.link:hover {
-  background-color: hsl(0, 0%, 30%);
+    white-space: nowrap;
+    width: 90%;
+    background-color: hsl(0, 0%, 20%);
+    padding: 1rem;
+    text-align: center;
+    border-radius: 0.5rem;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
 }
 
 .link:active {
-  background-color: hsl(0, 0%, 40%);
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 8%);
 }
 ```
 
