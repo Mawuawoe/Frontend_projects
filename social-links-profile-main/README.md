@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/Mawuawoe/Frontend_projects/tree/main/social-links-profile-main)
-- Live Site URL: [Live Demo](https://frontend-projects-blogcard.vercel.app/)
+- Live Site URL: [Live Demo](https://sociallink-sand.vercel.app/)
 
 ## My process
 
