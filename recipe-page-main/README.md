@@ -1,4 +1,4 @@
-# Frontend Mentor - Recipe page
+# Frontend Mentor - Recipe page challenge
 
 ![Design preview for the Recipe page coding challenge](./preview.jpg)
 
@@ -42,9 +42,12 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://re
 ### What I learned
 
 This project helped me solidify my understanding of:
-- Structuring semantic HTML sections like <header>, <section>, <article>, and <ol>.
+- Structuring semantic HTML sections like header, section, article, tables, ul and ol.
+
 - Using Tailwind utility classes efficiently to create spacing, typography, and layout.
+
 - Applying custom colors and fonts in Tailwind V4.
+
 - Making a clean, responsive layout with Tailwind CSS
 
 ### Continued development
